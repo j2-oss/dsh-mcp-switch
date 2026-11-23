@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "MCP 工具开关",
+    "description": "MCP 服务默认全部关闭，只把打开的服务工具说明发给模型，平时不浪费 token；在设置里开关，或在对话里说一声切换。",
+    "detail": "docs/DETAIL.md"
+  }
+}

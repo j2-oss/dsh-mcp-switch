@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "MCP tool switch",
+    "description": "Every MCP server starts off: only switched-on servers send their tool definitions, so ordinary requests carry just the necessary tools. Switch them in Settings or by asking.",
+    "detail": "docs/DETAIL.md"
+  }
+}
